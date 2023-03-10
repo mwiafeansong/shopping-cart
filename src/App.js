@@ -88,7 +88,7 @@ const App = () => {
         </div>
 
         <Routes>
-          <Route path="/shopping-cart" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route
             path="/Shop"
             element={
