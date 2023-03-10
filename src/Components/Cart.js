@@ -1,6 +1,4 @@
 import React from 'react';
-import { useState } from 'react';
-import { useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 
 const Cart = (props) => {
@@ -21,14 +19,6 @@ const Cart = (props) => {
 
     props.setToCartProds(result);
   };
-
-  // useEffect(() => {
-  //   if (props.total !== 0) {
-  //     return;
-  //   } else {
-  //     props.setTotalPrice(0);
-  //   }
-  // });
 
   return (
     <section id="cart">
