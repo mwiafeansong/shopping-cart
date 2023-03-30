@@ -11,7 +11,7 @@ Users are able to shop for products.
 
 ### Link
 
-[Live Demo]()
+[Live Demo](https://mwiafeansong.github.io/shopping-cart/)
 
 ### Built with
 
