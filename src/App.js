@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, HashRouter, Routes, Route } from 'react-router-dom';
 import Navbar from './Components/Navbar';
 import Home from './Components/Home';
 import Shop from './Components/Shop';
@@ -80,7 +80,7 @@ const App = () => {
   };
 
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="App">
         <div className="logoNav">
           <h1>Accessorize.</h1>
@@ -88,7 +88,7 @@ const App = () => {
         </div>
 
         <Routes>
-          <Route path="/shopping-cart" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route
             path="/Shop"
             element={
@@ -123,7 +123,7 @@ const App = () => {
           <a href="https://www.github.com/mwiafeansong">mwiafeansong</a>
         </footer>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 
