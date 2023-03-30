@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/shopping-cart/static/css/main.623322f9.css",
+    "main.css": "/shopping-cart/static/css/main.84d1acee.css",
     "main.js": "/shopping-cart/static/js/main.41fc7aca.js",
     "static/js/787.d6fe38e8.chunk.js": "/shopping-cart/static/js/787.d6fe38e8.chunk.js",
     "static/media/leather-boots.jpg": "/shopping-cart/static/media/leather-boots.8974a7a6c21f216e3220.jpg",
@@ -18,12 +18,12 @@
     "static/media/great-blue-hat.jpg": "/shopping-cart/static/media/great-blue-hat.523814d0b1fced10d286.jpg",
     "index.html": "/shopping-cart/index.html",
     "static/media/cart-outline.svg": "/shopping-cart/static/media/cart-outline.a97e6118fdc6331ef39d503fcf2fc533.svg",
-    "main.623322f9.css.map": "/shopping-cart/static/css/main.623322f9.css.map",
+    "main.84d1acee.css.map": "/shopping-cart/static/css/main.84d1acee.css.map",
     "main.41fc7aca.js.map": "/shopping-cart/static/js/main.41fc7aca.js.map",
     "787.d6fe38e8.chunk.js.map": "/shopping-cart/static/js/787.d6fe38e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.623322f9.css",
+    "static/css/main.84d1acee.css",
     "static/js/main.41fc7aca.js"
   ]
 }
