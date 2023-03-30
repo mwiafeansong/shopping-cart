@@ -83,6 +83,7 @@ li a:not(.cartBtn).active {
 #home img {
   max-width: 400px;
   width: 95%;
+  height: auto;
 }
 
 #home p {
@@ -120,6 +121,7 @@ footer {
 
 .card img {
   width: 100%;
+  height: auto;
   border-radius: 10px 10px 0 0;
 }
 
