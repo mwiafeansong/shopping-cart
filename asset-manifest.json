@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mwiafeansong.github.io/shopping-cart/static/css/main.623322f9.css",
-    "main.js": "/mwiafeansong.github.io/shopping-cart/static/js/main.d0e2788c.js",
+    "main.js": "/mwiafeansong.github.io/shopping-cart/static/js/main.1b2a7345.js",
     "static/js/787.d6fe38e8.chunk.js": "/mwiafeansong.github.io/shopping-cart/static/js/787.d6fe38e8.chunk.js",
     "static/media/leather-boots.jpg": "/mwiafeansong.github.io/shopping-cart/static/media/leather-boots.8974a7a6c21f216e3220.jpg",
     "static/media/fashion-sneakers.jpg": "/mwiafeansong.github.io/shopping-cart/static/media/fashion-sneakers.c84c3e608b871d386c17.jpg",
@@ -19,11 +19,11 @@
     "index.html": "/mwiafeansong.github.io/shopping-cart/index.html",
     "static/media/cart-outline.svg": "/mwiafeansong.github.io/shopping-cart/static/media/cart-outline.a97e6118fdc6331ef39d503fcf2fc533.svg",
     "main.623322f9.css.map": "/mwiafeansong.github.io/shopping-cart/static/css/main.623322f9.css.map",
-    "main.d0e2788c.js.map": "/mwiafeansong.github.io/shopping-cart/static/js/main.d0e2788c.js.map",
+    "main.1b2a7345.js.map": "/mwiafeansong.github.io/shopping-cart/static/js/main.1b2a7345.js.map",
     "787.d6fe38e8.chunk.js.map": "/mwiafeansong.github.io/shopping-cart/static/js/787.d6fe38e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.623322f9.css",
-    "static/js/main.d0e2788c.js"
+    "static/js/main.1b2a7345.js"
   ]
 }
